@@ -1,7 +1,8 @@
 import streamlit as st
 st.title("BRUNCH WITH SR")
 
-st.image("C:/Users/abha6/Downloads/cafe.png", width=700) 
+
+st.image("C:/Users/yourusername/Downloads/cafe.png", width=700) 
 
 
 st.write("""
@@ -117,6 +118,6 @@ body {
 
 
 # You must be in the same folder as the file "cafe.png" for the image to load correctly.
-# cd "C:\Users\abha6\Downloads"
+# cd "C:\Users\yourusername\Downloads"
 # python -m streamlit run cafe.py
 st.write("Visit us again for more stories and warm moments!") 
